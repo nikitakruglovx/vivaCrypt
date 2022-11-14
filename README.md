@@ -16,4 +16,4 @@ The first version contains AES 256 encryption. Quickly and Recursively encrypts 
 
 |       OS       | Windows        | MacOs          | Linux          |
 | -------------- | -------------- | -------------- | -------------- |
-| Free           | [Windows Excexuteble](https://github.com/nikitakruglovx/vivaCrypt/releases/download/aes256/vivaCrypt-windows-portable-x64-86-v.1.0.zip)  |  None  | None           |
+| Free           | [Windows Executable](https://github.com/nikitakruglovx/vivaCrypt/releases/download/aes256/vivaCrypt-windows-portable-x64-86-v.1.0.zip)  |  None  | None           |
